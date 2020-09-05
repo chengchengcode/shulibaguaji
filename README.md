@@ -2,4 +2,5 @@
 
 ukim的 Heroes In My Heart
 
-Feynmann的传说
+[Feynmann的传说](https://github.com/chengchengcode/shulibagua/blob/master/Feynman%E7%9A%84%E4%BC%A0%E8%AF%B4.md)
+
