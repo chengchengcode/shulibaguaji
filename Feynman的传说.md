@@ -1,3 +1,5 @@
+http://www.feynman.com/stories/al-seckel-on-feynman/
+
 发信人: Fang (依依惜别的申请), 信区: Physics
 标 题: 每天来一段Feynman的传说
 发信站: 大话西游站 (2001年03月26日17:13:11 星期一), 站内信件
@@ -9,7 +11,7 @@
 Feynman论Hawking（霍金）
 -----------------------
 
-我有一次跟Feynman说，Steven Hawking有本事在脑子里算路径积分。“啊~~~那也
+我有一次跟Feynman说，Steven Hawking有本事在脑子里算路径积分。“啊~~~ 那也
 没什么了不起”，Feynman说，“能像我一样发现这种技术远比能在脑子里重复它
 要有趣。”Feynman并不是狂妄，他说的是对的。真正的天才能够发明创造，而不
 只是会应用技术。
