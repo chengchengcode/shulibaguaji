@@ -9,13 +9,13 @@ ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blo
 四个物理学家的故事
 ------
 
-[Richard Feynman的传说](https://github.com/chengchengcode/shulibaguaji/blob/master/Richard%20Feynman%E7%9A%84%E4%BC%A0%E8%AF%B4.md)
-
-[Julian Schwinger的故事](https://github.com/chengchengcode/shulibagua/blob/master/Julian%20Schwinger%E7%9A%84%E6%95%85%E4%BA%8B.md)
-
 [老杨的传说](https://github.com/chengchengcode/shulibagua/blob/master/%E8%80%81%E6%9D%A8%E7%9A%84%E4%BC%A0%E8%AF%B4.md)
 
 [老爱的八卦](https://github.com/chengchengcode/shulibagua/blob/master/%E8%80%81%E7%88%B1%E7%9A%84%E5%85%AB%E5%8D%A6.md)
+
+[Julian Schwinger的故事](https://github.com/chengchengcode/shulibagua/blob/master/Julian%20Schwinger%E7%9A%84%E6%95%85%E4%BA%8B.md)
+
+[Richard Feynman的传说](https://github.com/chengchengcode/shulibaguaji/blob/master/Richard%20Feynman%E7%9A%84%E4%BC%A0%E8%AF%B4.md)
 
 这里费曼的故事大多来自他的传记，前几年出版过一本费曼的书信集，从费曼写的信件里，我们看到的更多的是费曼温情的一面，而不再是那个爱开玩笑捉弄人争强好胜的物理天才，我还记得的几个事情，一个是他写邮件说做院士挺没意思的，能不能把他除名，这样还能省院士年费，一个是他吃松针煮水治病，还有是他给妻子写信说：我最近非常努力，一天只睡八个小时，以及他写信给亡妻，最后一句是，原谅我没把这封信寄给你，因为我不知道你的新地址啊
 
