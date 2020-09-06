@@ -1,4 +1,5 @@
 SCHWINGER两三事 大 | 中 | 小 [ 2006/06/01 18:25 | by dracker ]
+
 发信站: 瀚海星云 (2006年03月25日14:43:44 星期六), 站内信件 WWWPOST
 
 这学期电动的老师M曾经是SCHWINGER的学生,还写过SCHWINGER的传记,于是他上课讲起SHWINGER的八卦总是眉飞色舞.这里拣几件写一下.
@@ -15,14 +16,14 @@ SCHWINGER以超强的算功闻名.有段时间SCHWINGER在OPPENHEIMER那里做PO
 
 发信人: SayMyName (这也会过去), 信区: TheoPhys
 标 题: Julian Schwinger的八卦 --1
+
 发信站: 水木社区 (Wed Apr 8 04:56:24 2009), 站内
 
 Julian Schwinger 二战时在mit的雷达实验室,喜欢白天睡觉，晚上工作，他每天晚上七点半起床,第一顿饭是晚饭，吃完晚饭跟别人讨论工作，讨论到半夜,别人睡觉去了，他就开始自己干活了.乌伦贝克让他给个seminar.都得把时间定在下午四点半，Schwinger得特意早起才能赶得上，而且还困的不行不行的
 
 他这个习惯似乎很早就养成了。
 
-他16岁的时候写了自己的第一篇物理的学术论文，好象是关于电子moller作用的，然后当时的RABI慧眼识英才，把他从纽约市的city college弄到了哥伦比亚。schwinger读研究生一年级的时候就把博士论文写好了，可是毕不了业。为啥呢
-，因为学校规定他必须得去上数学课，但是数学课是上午的，他根本不想起来. 乌伦贝克当时开一门统计力学课，然后想直接给他个A算了， Rabi说你这样不行，你给他出个考试吧，最难的那种， 乌伦贝克就这么做了，schwinger也很轻松的就过了
+他16岁的时候写了自己的第一篇物理的学术论文，好象是关于电子moller作用的，然后当时的RABI慧眼识英才，把他从纽约市的city college弄到了哥伦比亚。schwinger读研究生一年级的时候就把博士论文写好了，可是毕不了业。为啥呢，因为学校规定他必须得去上数学课，但是数学课是上午的，他根本不想起来. 乌伦贝克当时开一门统计力学课，然后想直接给他个A算了， Rabi说你这样不行，你给他出个考试吧，最难的那种， 乌伦贝克就这么做了，schwinger也很轻松的就过了
 
 Schwinger 一开始没去 Columbia 是有原因的，当时美国的大多数大学都是新教控制的，犹太人根本进不去
 
@@ -34,6 +35,7 @@ Schwinger几乎做什么事情都用自己的一套，他对 Feynman发明的 fe
 
 发信人: SayMyName (这也会过去), 信区: TheoPhys
 标 题: Julian Schwinger的八卦 --2
+
 发信站: 水木社区 (Wed Apr 8 07:53:03 2009), 站内
 
 
@@ -47,6 +49,7 @@ Schwinger 是很很喜欢 formalism. 他发明了一大批令人生畏的理论�
 
 发信人: SayMyName (这也会过去), 信区: TheoPhys
 标 题: Julian Schwinger的八卦 --3
+
 发信站: 水木社区 (Wed Apr 8 08:56:45 2009), 站内
 
 Schwinger 在学校里的成绩并不好，因为1. 老逃课 2. 不交作业。 所以像力学这种课，很多人得A, 他只能是B. 当时city college 有一大堆必选课，包括德语，体育什么的，Schwinger 的成绩都很惨，差点被kick出学校.
@@ -60,6 +63,7 @@ Rabi立马就决定让Schwinger转学，他让schwinger在他办公室等着，�
 
 发信人: SayMyName (这也会过去), 信区: TheoPhys
 标 题: Julian Schwinger的八卦 --4
+
 发信站: 水木社区 (Wed Apr 8 08:59:29 2009), 站内
 
 可是schwinger当时并不想转学，他在city college混了那么久，有一帮朋友，混的很开心，于是他就想先试试看city college 的honor program (美国的一种学制，允许优秀学生提前修高级课程)，不行的话再接受 rabi的offer.
@@ -81,6 +85,7 @@ BTW. 在transfer到哥伦比亚之前， Schwinger已经经常去哥伦比亚的
 
 发信人: SayMyName (这也会过去), 信区: TheoPhys
 标 题: Julian Schwinger的八卦 --5
+
 发信站: 水木社区 (Wed Apr 8 10:11:27 2009), 站内
 
 1935年9月，Schwinger开始了他在哥伦比亚的生涯
@@ -97,9 +102,8 @@ Schwinger讨厌那些实验报告和无关课程之类的东西，认为都是�
 
 发信人: SayMyName (这也会过去), 信区: TheoPhys
 标 题: Julian Schwinger的八卦 --6
+
 发信站: 水木社区 (Wed Apr 8 10:12:10 2009), 站内
-
-
 
 Lamer是个很出色的化学家，不过上课上的。。。。 他所有的东西都用自己的一套符号，试卷上也不解释那些符号啥意思， 说白了，如果不去上课，连题都看不懂，别说做了
 
@@ -111,9 +115,8 @@ Schwinger 选了他的课，然后得了一个大大的 F
 
 发信人: SayMyName (这也会过去), 信区: TheoPhys
 标 题: Julian Schwinger的八卦 --7
+
 发信站: 水木社区 (Wed Apr 8 10:37:45 2009), 站内
-
-
 
 我们继续回头讲 Uhlenbeck 开的那门课， 当时 Uhlenbeck 在哥伦比亚做 visiting professor, Schwinger 注了这门课，但是从来没去过， Uhlenbeck很郁闷， 跟 Rabi抱怨说，这小子也太过分了，不来上课也就罢了，连final exam都不来，一学期我就没见过他。 Rabi 知道 Schwinger最近在泡妞，怕他是没心思做物理了，就把 Schwinger叫过来教训了一通，然后说怎么着你也得去跟 Uhlenbeck 弄个口试混过关吧. Schwinger 同意参加口试，但必须是在晚上十点之后， 这个条件可以说气的 Uhlenbeck 七窍生烟, 于是 Uhlenbeck 专门吧考试设在了早上十点，考试完后， Uhlenbeck 找 Rabi 说, 服了，这小子不但都做对了，做的答案都跟我的一模一样，好像他从来没缺席我的课一样，我无话可说了.
 
@@ -125,6 +128,7 @@ Schwinger 缺课太多，成绩很烂，给他惹了不少的麻烦，比如在�
 
 发信人: SayMyName (这也会过去), 信区: TheoPhys
 标 题: Julian Schwinger的八卦 -- 8
+
 发信站: 水木社区 (Thu Apr 23 03:35:16 2009), 站内
 
 Schwinger 21岁 PHD 毕业，然后一堆牛校诸如哈佛之流来了 postdoc offer , Rabi 还给他联系好了去做 Pauli 的 postdoc , 但 Schwinger 有自己的主意，他决定去 Berkeley, 跟奥本海默做，他觉得奥本海默是个比较有想法的人
@@ -141,8 +145,8 @@ Schwinger 后来评价奥本海默说， He was overwhelming, 每个人都会很
 
 发信人: SayMyName (这也会过去), 信区: TheoPhys
 标 题: Julian Schwinger的八卦 -- 9
-发信站: 水木社区 (Thu Apr 23 03:36:20 2009), 站内
 
+发信站: 水木社区 (Thu Apr 23 03:36:20 2009), 站内
 
 Schwinger 的计算能力被认为是一种传奇, 有一次，两个学生， Chaim Richman和 Bernard Peters 去找奥本海默要个题目做，奥本海默就给了他们一个关于氘核的题目, 当天晚上，奥本海默的另一个学生 Ed Gerjuoy 去找Schwinger吃完发，看到 Schwinger在做这个题目， Schwinger做完计算后把纸对折放进兜里就去吃饭了。 六个月后， Richman 和 Peters 带着他们计算的结果去找奥本海默。 奥本海默看了他们的公式和结果，然后问 Schwinger,你不是说你早做完了吗。Schwinger翻出他当时用来计算的那张纸，对了一下然后说，他们结果大体是对的，就是差个二倍的因子。然后奥本海默跟那两个学生说，检查一下你们的计算过程， find that 2. 果然是这两个学生算错了。 这两个人的文章最终还是发表了，但是这个打击是如此的沉重，以至于两个人直接转去做实验物理了
 
@@ -150,7 +154,7 @@ Ed Gerjuoy有一次跟Schwinger做一个关于原子核张量相互作用的计�
 
 Schwinger 这种超乎寻常的计算能力并不是天生的。 他对计算有一种由衷的尊重，他甚至经常做一些重复的计算，只为了能够进一步提高计算的速度。
 
-
+--------------------------
 
 Julian Schwinger的八卦故事
 
@@ -167,7 +171,6 @@ Julian Schwinger的八卦故事
 
 
 5、Feynman没教出好学生，Schwinger却是个好老师，最著名的有Glashow，在Harvard师从Schwinger。 Glashow也是个怪才，一次他给他教的学生考试，好象考电动力学吧，学生们被卷子上的一道题目卡住了，个个满头大汗。Glashow突然想起来了，对学生们说：“卷子里有一道题目我也没有做出来，谁做出来了告诉我一声。”全体学生尽皆晕倒。
-
 
 I can calculate the motion of heavenly bodies but not the madness of people. - Isaac Newton
 
