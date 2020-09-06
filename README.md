@@ -1,8 +1,8 @@
-整理这个合集的主要动机是想再看一下这些有趣的人和事的时候发现连载这些故事的一个bbs已经关了，bbs这个形式也似乎即将消亡，于是备份一些看过的名人轶事，在[这里](https://github.com/chengchengcode/shulibaguaji/blob/master/note.md)有更啰嗦的解释，下面是索引
+整理这个合集的主要动机是想再看一下这些有趣的人和事的时候发现连载这些故事的一个bbs已经关了，bbs这个形式也似乎即将消亡，于是备份一些看过的名人轶事，在[这里](https://github.com/chengchengcode/shulibaguaji/blob/master/note.md)有更啰嗦的解释，有空我会继续微调格式，下面是索引
 
 
 著名的Heros In My Heart的电子版：
----------
+------
 
 ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blob/master/heroes%20in%20my%20heart.pdf) 非常经典，是我看的第一个这种bbs风格的短故事集
 
@@ -22,14 +22,14 @@ ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blo
 我看到这本书的时候，曾经困惑费曼写出去的信是如何被收集到的呢？编辑又是如何得知费曼给谁写过信呢？然后想起以前我也经常写信的时候，收到回信时经常忘了写过去的信里都有啥了，为此我意识到回信里应该有一份来信的复印件，或者寄信前自己可以留一份复印件，这样看到回信的时候也好更快入戏，想到这里，也许那个经常写信的年代，也总会有备份的吧
 
 长篇连载的数学物理学家的故事
--------
+------
 
 Corinthian@MITBBS [物理八卦连载](https://github.com/chengchengcode/shulibaguaji/blob/master/%E7%89%A9%E7%90%86%E5%85%AB%E5%8D%A6%E8%BF%9E%E8%BD%BD.md)
 
 fraction@pku 或者 littless 的 [Some tales of mathematic!ans](https://github.com/chengchengcode/shulibaguaji/blob/master/some%20tales%20of%20mathematic!ans.md)
 
 名师语录
---------
+------
 
 很多课修完后，唯一能回忆起来的就是上课的时候老师讲的段子了，这里收录几个
 
