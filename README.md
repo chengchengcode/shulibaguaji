@@ -20,8 +20,10 @@ Corinthian@MITBBS [物理八卦连载](https://github.com/chengchengcode/shuliba
 
 fraction@pku 或者 littless 的 [Some tales of mathematic!ans](https://github.com/chengchengcode/shulibaguaji/blob/master/some%20tales%20of%20mathematic!ans.md)
 
-很多课修完后，唯一能回忆起来的就是上课的时候老师讲的段子了，这里收录一个页边集，类似的合集还有一些名师语录，在 https://www.douban.com/group/phy-gossip/ 这里
+很多课修完后，唯一能回忆起来的就是上课的时候老师讲的段子了，这里收录一个页边集
 
 [中华第一系物理讲义页边集](https://github.com/chengchengcode/shulibagua/blob/master/%E4%B8%AD%E5%8D%8E%E7%AC%AC%E4%B8%80%E7%B3%BB%E7%89%A9%E7%90%86%E8%AE%B2%E4%B9%89%E9%A1%B5%E8%BE%B9%E9%9B%86.md)
+
+类似的合集还有一些名师语录，在 https://www.douban.com/group/phy-gossip/ 这里
 
 [这里](https://github.com/chengchengcode/shulibagua/blob/master/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE.md)是我整理的尽量注明出处的八卦，也有一些是我有印象但是暂时找不到原文的段子，就当我重讲了一遍吧
