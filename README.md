@@ -31,14 +31,14 @@ fraction@pku 或者 littless 的 [Some tales of mathematic!ans](https://github.c
 名师语录
 --------
 
-很多课修完后，唯一能回忆起来的就是上课的时候老师讲的段子了，这里收录一个页边集
+很多课修完后，唯一能回忆起来的就是上课的时候老师讲的段子了，这里收录几个
 
 [中华第一系物理讲义页边集](https://github.com/chengchengcode/shulibagua/blob/master/%E4%B8%AD%E5%8D%8E%E7%AC%AC%E4%B8%80%E7%B3%BB%E7%89%A9%E7%90%86%E8%AE%B2%E4%B9%89%E9%A1%B5%E8%BE%B9%E9%9B%86.md)
 
 [阮图南老师经典电动力学课语录 2006-07](https://github.com/chengchengcode/shulibaguaji/blob/master/%E9%98%AE%E5%9B%BE%E5%8D%97%E8%80%81%E5%B8%88%E7%BB%8F%E5%85%B8%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%E8%AF%BE%E8%AF%AD%E5%BD%95%202006-07.md)
 
 
-类似的合集还有一些名师语录，在 https://www.douban.com/group/phy-gossip/ 这里
+类似的名师语录合集在 https://www.douban.com/group/phy-gossip/ 这里
 
 [这里](https://github.com/chengchengcode/shulibagua/blob/master/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE.md)是我整理的尽量注明出处的名人轶事，也有一些是我有印象但是暂时找不到原文的段子，就当我重讲了一遍吧
 
