@@ -6,7 +6,7 @@ ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blo
 
 下面是四个物理学家的八卦
 
-[Richard Feynman的传说](https://github.com/chengchengcode/shulibagua/blob/master/Feynman%E7%9A%84%E4%BC%A0%E8%AF%B4.md)
+[Richard Feynman的传说](https://github.com/chengchengcode/shulibaguaji/blob/master/Richard%20Feynman%E7%9A%84%E4%BC%A0%E8%AF%B4.md)
 
 [Julian Schwinger的故事](https://github.com/chengchengcode/shulibagua/blob/master/Julian%20Schwinger%E7%9A%84%E6%95%85%E4%BA%8B.md)
 
