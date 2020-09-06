@@ -86,9 +86,9 @@ Vietoris的主要数学贡献在代数拓扑领域，众所
 
 年向Vietoris学习代数拓扑
 
-Hirzebruch在1996年9月曾写信问过Vietoris此事�
+Hirzebruch在1996年9月曾写信问过Vietoris此事
 
-连他都很犹豫给一个105岁的老人写信是不是合适�
+连他都很犹豫给一个105岁的老人写信是不是合适
 
 几周后，Hirzebruch居然收到了回信
 
