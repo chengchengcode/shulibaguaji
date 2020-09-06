@@ -16,9 +16,9 @@ ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blo
 
 长篇连载的数学物理学家的八卦
 
-[物理八卦连载](https://github.com/chengchengcode/shulibagua/blob/master/%E7%89%A9%E7%90%86%E5%85%AB%E5%8D%A6.md)
+Corinthian@MITBBS [物理八卦连载](https://github.com/chengchengcode/shulibaguaji/blob/master/%E7%89%A9%E7%90%86%E5%85%AB%E5%8D%A6%E8%BF%9E%E8%BD%BD.md)
 
-fraction@pku 或者 littless 的长篇连载 [Some tales of mathematic!ans](https://github.com/chengchengcode/shulibaguaji/blob/master/some%20tales%20of%20mathematic!ans.md)
+fraction@pku 或者 littless 的 [Some tales of mathematic!ans](https://github.com/chengchengcode/shulibaguaji/blob/master/some%20tales%20of%20mathematic!ans.md)
 
 很多课修完后，唯一能回忆起来的就是上课的时候老师讲的段子了，这里收录一个页边集，类似的合集还有一些名师语录，在 https://www.douban.com/group/phy-gossip/ 这里
 
