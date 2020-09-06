@@ -6,7 +6,7 @@ ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blo
 
 [Julian Schwinger的故事](https://github.com/chengchengcode/shulibagua/blob/master/Julian%20Schwinger%E7%9A%84%E6%95%85%E4%BA%8B.md)
 
-[物理八卦](https://github.com/chengchengcode/shulibagua/blob/master/%E7%89%A9%E7%90%86%E5%85%AB%E5%8D%A6.md)
+[物理八卦连载](https://github.com/chengchengcode/shulibagua/blob/master/%E7%89%A9%E7%90%86%E5%85%AB%E5%8D%A6.md)
 
 [老杨的传说](https://github.com/chengchengcode/shulibagua/blob/master/%E8%80%81%E6%9D%A8%E7%9A%84%E4%BC%A0%E8%AF%B4.md)
 
