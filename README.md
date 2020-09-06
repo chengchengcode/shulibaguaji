@@ -1,6 +1,8 @@
-本科的时候有刷bbs的习惯，偶尔看到这里整理的很多八卦段子，涉及到的名字都是物理教材的常客，读起来十分痛快，看这种八卦也成了支撑我念完本科和博士的一大动力，偶然发现连载了这些八卦的bbs之一已经关了，于是整理了一些以前看过的八卦在这里，排名不特别分先后，尽量注明出处
+本科的时候有刷bbs的习惯，偶尔看到许多数学家、物理学家的段子，涉及到的名字都是教材的常客，读起来十分痛快，看这种名人八卦也成了支撑我念完本科和博士的一大动力，偶然发现连载了这些八卦的bbs之一已经关了，于是整理了一些以前看过的段子在这里，排名不特别分先后，尽量注明出处
 
-ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blob/master/heroes%20in%20my%20heart.pdf)
+曾想着以后如果教书，每提到一个人名都要放下讲义，讲一两个段子，即使学生也没学到什么知识，至少听过一些段子
+
+ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blob/master/heroes%20in%20my%20heart.pdf) 非常经典，是我看的第一个八卦集子
 
 [Feynmann的传说](https://github.com/chengchengcode/shulibagua/blob/master/Feynman%E7%9A%84%E4%BC%A0%E8%AF%B4.md)
 
