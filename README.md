@@ -1,4 +1,4 @@
-整理这个合集的主要动机是前几天想看看这些有趣的人和事，发现连载这些故事的一个bbs已经关了，而且连bbs这个形式也即将消亡，于是赶紧留存一份在这里，在[这里](https://github.com/chengchengcode/shulibaguaji/blob/master/note.md)有更啰嗦的解释，这里就不多说了
+整理这个合集的主要动机是前几天想再看这些有趣的人和事，发现连载这些故事的一个bbs已经关了，bbs这个形式也似乎即将消亡，于是备份一些看过的名人轶事，在[这里](https://github.com/chengchengcode/shulibaguaji/blob/master/note.md)有更啰嗦的解释，下面是索引
 
 索引
 ---
