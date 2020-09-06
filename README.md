@@ -4,7 +4,7 @@
 著名的Heros In My Heart的电子版：
 ------
 
-ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blob/master/heroes%20in%20my%20heart.pdf) 非常经典，是我看的第一个这种bbs风格的短故事集
+ukim的[Heroes In My Heart](https://github.com/chengchengcode/shulibaguaji/blob/master/HerosinMyHeart.md) 非常经典，是我看的第一个这种bbs风格的短故事集，[这里](https://github.com/chengchengcode/shulibagua/blob/master/heroes%20in%20my%20heart.pdf)是pdf版本
 
 四个物理学家的故事
 ------
