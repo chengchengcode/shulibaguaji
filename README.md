@@ -1,6 +1,6 @@
-整理这个文集的背景在[这里](https://github.com/chengchengcode/shulibaguaji/blob/master/note.md)
+整理这个合集的主要动机是前几天想看看这些有趣的人和事，发现连载这些故事的bbs已经关了，而且连bbs这个形式也已经快要消亡了，于是赶紧留存一份在这里，在[这里](https://github.com/chengchengcode/shulibaguaji/blob/master/note.md)有更啰嗦的解释，这里就不多说了
 
-目录
+索引
 ---
 
 著名的Heros In My Heart的电子版：
@@ -19,6 +19,10 @@ ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blo
 
 [老爱的八卦](https://github.com/chengchengcode/shulibagua/blob/master/%E8%80%81%E7%88%B1%E7%9A%84%E5%85%AB%E5%8D%A6.md)
 
+这里费曼的故事大多来自他的传记，前几年出版过一本费曼的书信集，从费曼写的信件里，我们看到的更多的是费曼温情的一面，而不再是那个爱开玩笑捉弄人争强好胜的物理天才，我还记得的几个事情，一个是他写邮件说做院士挺没意思的，能不能把他除名，这样还能省院士年费，一个是他吃松针煮水治病，还有是他给妻子写信说：我最近非常努力，一天只睡八个小时，以及他写信给亡妻，最后一句是，原谅我没把这封信寄给你，因为我不知道你的新地址啊
+
+我看到这本书的时候，曾经困惑费曼写出去的信是如何被收集到的呢？编辑又是如何得知费曼给谁写过信呢？然后想起以前我也经常写信的时候，有时候看到回信，已经忘了写过去的信里都有啥了，为此我开始意识到回信里应该有一份来信的复印件，或者寄信前自己可以留一份复印件，这样看到回信的时候也好更快入戏，想到这里，也许那个经常写信的年代，也总会有备份的吧
+
 长篇连载的数学物理学家的故事
 -------
 
@@ -35,6 +39,5 @@ fraction@pku 或者 littless 的 [Some tales of mathematic!ans](https://github.c
 
 类似的合集还有一些名师语录，在 https://www.douban.com/group/phy-gossip/ 这里
 
+[这里](https://github.com/chengchengcode/shulibagua/blob/master/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE.md)是我整理的尽量注明出处的名人轶事，也有一些是我有印象但是暂时找不到原文的段子，就当我重讲了一遍吧
 
-
-[这里](https://github.com/chengchengcode/shulibagua/blob/master/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE.md)是我整理的尽量注明出处的八卦，也有一些是我有印象但是暂时找不到原文的段子，就当我重讲了一遍吧
