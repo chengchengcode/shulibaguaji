@@ -1,164 +1,327 @@
 作者  fraction (My dream...), 信区: Mathematics                              
+
 标题  some tales of mathematicans(1)                                         
+
 时间  北大未名站 (2005年12月31日14:42:17 星期六) , 站内信件
 
 some tales of mathematic!ans ①
+
 发信站: BBS 未名空间站 (Mon Dec 19 12:47:56 2011, 美东)
 
 1.在这个系列里我打算写一些我在各种文章和书中看到的八卦
+
 希望能博大家一笑
 
 有一次littlewood问hardy,为什么他每次到一个旅馆就会把镜子用毛巾盖起来?
+
 回答是:因为他长得太丑了
 
 
+
 2.Hadamard,Jacques去意大利Bologna开1928年国际数学家大会,期间要坐火车去一个地方
+
 车厢里有很多人在聊天,他觉得十分累,就出了道困难的数学题,众人思考这道题,
+
 车厢里马上安静下来了,于是Hadamard就可以睡觉了
+
+
+
 
 
 3.Bourbaki是一个法国数学家的集体代名词
 
+
+
 Bourbaki的第一篇文章发表在comptes Rendus(法国科学院的一个杂志)上
+
 在1949年Journal of symbolic logic上的一篇文章
+
 "Foundations of mathematics for the working mathematican"
+
 中,Bourbaki教授的地址是University of Nancago
+
 一个杜撰的地址,分别是Nancy和Chicago(weil在那里)前后组合
 
+
+
 1940年,Boas,Ralph(MR的主编)曾经在Encyclopaedia Britannica上写过一篇文章,
+
 揭了Bourbaki的老底,Bourbaki马上反驳说根本没有Boas这个人,
+
 其实,Boas曾经是一群美国数学家的集体笔名
 
 
+
+
+
 4.20世纪60年代,Grothendieck领导的代数几何革命袭卷了整个数学界
+
 那时总有些人对他的理论表示很不理解
+
 一次Tate John做了一张小纸片,Grothendieck就把它放在他的上衣口袋里,
+
 每当有人提出议疑时,他就会把小卡片拿出来
+
 上面写着
+
 "there may be nilpotent elements in it"
 
 
+
+
+
 5.Vietoris,Leopold(1891--2002).
+
 可能是世界上最高寿的数学家了
 
+
+
 Vietoris是奥地利数学家，1920年在Wien大学
+
 获得博士学位，1930-1961在Innsbruck大学任教
+
 Vietoris的主要数学贡献在代数拓扑领域，众所
+
 周知的Mayer-Vietoris序列，Mayer在1926/1927
+
 年向Vietoris学习代数拓扑
+
 Hirzebruch在1996年9月曾写信问过Vietoris此事�
+
 连他都很犹豫给一个105岁的老人写信是不是合适�
+
 几周后，Hirzebruch居然收到了回信
 
+
+
 除了拓扑学外，Vietoris在概率方面也有工作，
+
 特别是在他103岁时还写过一篇三角级数的文章
 
 
+
+
+
 6.Cohen,Paul(1934-)
+
 是迄今唯一一个在数学基础方面获得Fields的数学家
+
 而且其早年的工作在调和分析方面
 
+
+
 1961年，cohen证明了连续统假设与集合论其它公理的
+
 独立性
 
+
+
 随后，他被邀请去法国做报告，法国所有的数学基础
+
 专家都去了，他是这样开场的：
+
 “过去30年来，没有人对这个问题做出突破性贡献，
+
 但这并不奇怪，因为自Godel以后，没有一流的数
+
 学家在这个领域内工作”
 
 
+
+
+
 7.Cohen在chicago大学读研究生时
+
 有一次英国数学家Swinnerton-Dyer来访
+
 Cohen对他说他在Landau的书里读到一个Siegel定理
+
 现在正在考虑把这个定理改进到最优的结果
+
 Swinnerton-Dyer很负责的说，这个东西呀，在我们
+
 有生之年是看不到解决的希望了
 
+
+
 过了几天，SD主动来找Cohen，说你前几天说的那个
+
 东西已经被我的同胞Roth，Klaus解决了，特来向
+
 你道歉
+
+
 
 过了几年，Roth因为这项工作被授于Fields奖
 
 
+作者  homotopy (Hopf invariant|Bott去了。。。), 信区: Mathematics            
+
+标题  Re: some tales of mathematicans(6)                                     
+
+时间  北大未名站 (2006年01月09日10:55:56 星期一) , 站内信件                  
+
+───────────────────────────────────────
+
+我补充一下吧Cohen当年本科（或者是研究生）的时候好像是在Stanford就曾跟别人说：自己要么在xxx方面做一个平庸的数学家（黎曼几何？）要么在数理逻辑的基础方面做出重大突破。。。。。。几年以后他成功了
+
+
 8.在数学中，有一些表达十分简洁的命题却揭示了深刻的数学内涵
+
 比如Goldbach猜想和Poincare猜想，正是因为如此他们都吸引
+
 了大批的数学家去攻克这些问题，poincare猜想是低维拓扑中
+
 的中心问题，Papakyriakopoulos，Christos一个在princeton
+
 工作的希腊数学家，对低维拓扑有重要贡献，他去世后，人们发现
+
 他的一个160页的手稿，是一个证明poincare猜想的大体计划，在其中
+
 一页的上面，有一个“引理14”可是没有给出证明
 
+
+
 1963年，一个德国数学家听从他的妻子（也是一个数学家）建议，去搞
+
 poincare猜想，此前他做的是和钮结有关的问题，不过他的复杂的非
+
 代数方法没有引起主流数学界的关注。经过10年不断的失败，他实在是
+
 受不了了，改行做四色猜想的证明，不出几年就成功了。这个人就是
+
 Haken，Wolfgang，有一类以他的名字命明的流形在poincare猜想的研究
+
 中十分重要
+
+
+
 
 
 9.poincare猜想引无数英雄竟折腰
 
+
+
 Conner，Andrew是Auburn university的一个
+
 数学教授，一生痴迷于poincare猜想的证明，
+
 在他1984年43岁因癌症去世前，他又宣布了他的
+
 一个证明，并把Haken和另外四个数学家叫到病床
+
 前检查他的证明，但是他此时已经不能和别人讨论
+
 问题了
 
+
+
 Rourke，Colin是英国Warwick大学的数学教授，
+
 1985年他的一个博士后Rego，Eduardo证明了一个
+
 定理，Rourke马上发现这个定理可以推出poincare
+
 猜想。1986年11月，他在UC Berkeley开了一个
+
 讨论班讲他的证明，听众有Kirby，Gabai，Casson
+
 Rourke的一个学生Kazez，还有Kirby的两个研究生
+
 Hirsch，Mike和Walker，Kevin
+
 在最后一天，错误终于被发现了，这是Haken六个月前
+
 指出的，很不幸，Rourke最终没有能干掉它
 
 
+
+
+
 10.Gabai,David
+
 2004年获得Veblen奖
+
 低维拓扑专家
 
+
+
 有人说如果Thurston说poincare猜想
+
 被证明了，并把它写在一页纸上，大家会
+
 争着去搞到他的手稿
+
 如果Gabai说poincare猜想被证明了，大家
+
 肯定会相信他，但没有人会去读他的证明
+
+
 
 
 11.
 
 
+
 12.据统计，在数学类的各类出版物中，有一半以上
+
 是Springer-Verlag出版的
+
 比如Lecture Notes in Mathematics
+
 Graduate Texts in Mathematics
 
+
+
 Springer-Verlag是Julius Springer在1842年
+
 开创的，最初只是一家书店，后来业务不断壮大，
+
 Julius Springer是一位国际象棋的爱好者，
+
 从1881年开始，Springer-Verlag用象棋中的马
+
 的图案作为其标志，因为Springer这个词在德文
+
 中意即“象棋中的马”。
 
+
+
 1906年，Ferdinand springer开始经营这个
+
 出版社，据说他本人是个生物遗传学家，并
+
 且是Springer-Verlag的一个期刊的编辑。在
+
 二战快结束时，他被俄军俘掳，审训官问他是
+
 个干什么的人，他回答说是个出版商，出版了
+
 100多种杂志，并把刊名都写出来，当他写到
+
 90多个时，那个审训官说好吧，你可以走了，
+
 我在这个杂志上发表过文章！不过建议你还是
+
 跟着我们，以免再被不懂科学的人抓起来
+
+作者  homotopy (苍生从此休劳我), 信区: Mathematics                           
+标题  Re: some tales of mathematicans(11)                                    
+时间  北大未名站 (2006年01月26日17:28:27 星期四) , 站内信件                  
+───────────────────────────────────────
+
+难道没有人听过那个十月革命期间某个俄国数学家被某阵营的人抓了审问时自称是数学家，结果被要求把xxx作taylor展开，于是验明正身得自由的故事吗？
+
 
 
 13.Hilbert晚年时有一次在家里举行一个宴会
+
 其间他的夫人发现他戴了一条脏领带，于是
+
 勒令他去换一条干净的，但是过了很久Hilbert
+
 也没有回来，夫人回去一看结果Hilbert已经
+
 躺在床上睡觉了
 
 按照Hilbert的逻辑
@@ -174,8 +337,8 @@ Julius Springer是一位国际象棋的爱好者，
 博士学位的人
 
 一般人很难和他与越南战争联系在一起
-据说Gleason1940年在Harvard上大学时�
-有一个室友叫Bundy，McGeorge（1919-�
+据说Gleason1940年在Harvard上大学时
+有一个室友叫Bundy，McGeorge（1919-
 原先打算去学数学，但是他发现Gleason
 也学了数学，怕是以后在数学界是没有
 出头之日了，所以就选择了政治
@@ -193,7 +356,7 @@ Zariski的一个关于射影几何的演讲决定去
 和Zariski学代数几何
 
 Zariski对学生的要求十分严格
-据说有人曾警告他说：“如果你永远不想毕业�
+据说有人曾警告他说：“如果你永远不想毕业
 那就去跟Zariski好了”
 
 
@@ -324,7 +487,6 @@ let 1<a1<a2....<ak<n be a sequence of integers
 当时也在座，对此印象极深，后来他在主持柯召的博士论文答辩时说：
 “你已经做过报告了！”
 
-
 22. Schwartz，Laurent（1915-2002）
 在参加巴黎高师入学考试的口试时，
 听到考官问他前面的那个人一个问题，
@@ -377,12 +539,15 @@ Levy根本不相信
 还有一次在Princeton的一次聚会上，一个研究生问
 每个人谁在20世纪数学家中排第一，当问到weil时，
 回答是Siegel，Ludwig（1896--1981）
+
 “那么谁是第二？”
+
 weil笑了，然后指了指他自己...
 
 有一天weil碰见Wiener，两个人都学了点中文，就
 用“中文”聊了半天，chern正好当时在场，就问
 旁边的一个学生
+
 “请问你能告诉我他们说的是哪国语言吗？”
 
 
@@ -408,15 +573,19 @@ Chicago大学不走
 Bers，Lipman（1914 - 1993）
 在二战时有一次路过美国，美国政府马上把他的护照给扣下了
 Bers提出强烈的抗议：
+
 “but how can i live without a passport？！
 i am naked i can‘t walk！”
 
 据说官方的答复是：
+
 “you walk with your legs，not with a passport”
 
 
 28. 在数学界有一个众所周知的serre猜想，它是说
+
 “域上的多项式环上有限生成投射模是否一定是自由的？”
+
 这是serre在1955年FAC中提出来的，其实它最早是
 Grothendieck在给serre的一封信里出现的
 后来Grothendieck在讨论班上提出了
@@ -427,8 +596,11 @@ Bull.Soc.Math.France上面
 
 29. Grothendieck 1951年刚到法国Nancy时，写了一篇50多页
 的文章给Dieudonne，题目是：
+
 ”Integration with values in a topological group”
+
 内容很详尽，但是没有什么意思
+
 Dieudonne把Grothendieck教训了一顿，告诉他应该研究有意义的数学
 问题，为了抽象而抽象是没有前途的
 后来Dieudonne 和Schwartz在一篇文章最后提出了14个未解决的问题，
@@ -493,6 +665,7 @@ serre的一个学生曾经回忆说在他做serre的PhD时，每当
 据说有一次serre在讲课的时侯描述了一个环，这时有个
 听众问他这个是不是chow环
 回答是
+
 “I mean the ring studied by Chow and Samuel”
 
 
@@ -519,19 +692,32 @@ serre的一个学生曾经回忆说在他做serre的PhD时，每当
 动是怎样形成的，但是学生们显然没有听懂，老师
 心里有点发毛，这时，他突然发现后排的一个小个
 男生似乎始终没有注视过黑版，于是他快步走了过去
+
 “同学，你怎么了？听懂了吗？”
+
 “听懂了，谢谢！”孩子站起来说
+
 “能讲给大家听听吗？”
+
 “能，地内行星，比如金星在地球绕日轨道内绕太阳运行
+
 .......”
+
 “太好了！”原来没听懂的同学现在居然全懂了
+
 老师不禁又问了一句
+
 “你怎么不看黑板听课呢？”
+
 “老师，他眼睛近视，看不见黑板上的字”
+
 旁边的同学为他来解围
 
+
 “孩子，不要泄气！你有着一双最好的“内在的眼睛”！”
+
 老师看了一下书桌上的课本，上面写着
+
 “Henri，Poincare”
 
 
@@ -549,9 +735,13 @@ poincare不费吹灰之力就圆满的解答出来
 他并没有选择数学，而是去高等矿业学院打算当一位矿业工程师
 不过不久他就写出一篇微分方程方面的论文，获得巴黎大学的
 博士学位，审查这篇论文的著名数学家Darboux后来说：
+
 ”我第一眼就清楚的看出这篇论文是不同寻常的，
+
 ........
+
 ......
+
 它所包含的结果肯定足以为几篇好论文提供材料”
 
 
@@ -559,6 +749,7 @@ poincare不费吹灰之力就圆满的解答出来
 是超弦理论的创始人之一
 因为上高中时数学好而进入哈佛大学学数学
 后来转到伯克利学物理，他对此的解释是：
+
 “我不能理解数学家为什么会对数学感兴趣，
 而在物理中，唯一重要的事情就是理解大自然”
 
@@ -568,10 +759,14 @@ Feynman，Richard（1918-1988）
 时喜欢的也是数学而并非物理，高中毕业后
 Feynman进入MIT学数学，听过一个学期课后，
 他去问数学系主任
+
 “学这些高等数学，除了为了学习更多的数学外，
 还有什么用呢？”
+
 那位主任说：
+
 “你既然这么想，说明你不适合学数学”
+
 于是Feynman转入物理系学习
 
 
@@ -608,14 +803,23 @@ Browder，Earl是美国共产党主席的候选人之一
 尤其以发明各种有趣的数学游戏而闻名
 
 有一次一个学生出了一道题来考他
+
 1 3
+
 1 1 1 3
+
 3 1 1 3
+
 1 3 2 1 1 3
+
 1 1 1 3 1 2 2 1 1 3
+
 3 1 1 3 1 1 2 2 2 1 1 3
+
 1 3 2 1 1 3 2 1 3 2 2 1 1 3
+
 1 1 1 3 1 2 2 1 1 3 1 2 1 1 1 3 2 2 2 1 1 3
+
 请问下一列数字是什么？
 这个世界上可能没有比Conway更善于做这种题的人了
 不幸的是，思考了几个星期后，Conway终于投降了
@@ -635,6 +839,7 @@ Columbia university的讨论班上做一个报告，
 不过serre对他还比较大度，没有和他计较
 
 serre的一个学生说
+
 “总的来说，色狼是个好人，不过要是让他成
 为你演讲的听众确是件麻烦的事情”
 
@@ -645,12 +850,15 @@ serre的一个学生说
 
 数学系的主任去参加美国数学会一月份的会议，
 他们通常是去人多的公共场所，排一排你的肩膀
+
 “hi，请问你需要找工作吗？”
+
 然后给你一张表格，只需填上你的姓名就可以去大学
 工作了
 
 当然也有限制条件，很多在Notices of AMS和别的
 地方上的广告都注明：
+
 “Algebraists need not apply”
 
 
@@ -662,10 +870,15 @@ weil走到黑板前写了一个希腊字母ω
 
 
 44. Kang-Tae Kim ,一个美国微分几何学家，有一次遇见陈省身
+
 陈问他
+
 “你的复变函数学的怎么样？”
+
 Kim有点犹豫，因为他这门课没怎么学
+
 “我这门课得了一个C”
+
 “I beat you！ I got a C+”
 
 
@@ -715,12 +928,15 @@ Wiener在台下当观众，正当他觉得无聊无事可做的时候，突然�
 后来经过不断改进，最后被简化到只有2页，包括一个组合恒等式，
 和一个形式幂级数系数的估计
 这篇文章原来的题目是：
-“A wallet-sized，high-school-level proof of the
-Bieberbach conjecture”
+
+“A wallet-sized，high-school-level proof of the Bieberbach conjecture”
+
 后来被编辑改为
-“A high-school algebra，‘formal calculus’，proof
-of the Bieberbach conjecture”
+
+“A high-school algebra，‘formal calculus’，proof of the Bieberbach conjecture”
+
 作者是Zeilberger，Doron和Ekhad，Shalosh B
+
 当然Ekhad，Shalosh B并不是一个人，而是Zeilberger给他的
 一台计算机起的名字
 
@@ -729,6 +945,7 @@ of the Bieberbach conjecture”
 据说对自己和别人论文的质量要求非常高
 有一次他投Annals of mathematics
 的文章被拒了，理由是：
+
 “符合Annals的要求，但不符合Hochschild
 的要求”
 
@@ -743,37 +960,57 @@ Hochschild，G P------------------------xx页
 49. 曾在Princeton读书的几个学生给数学界的VIP
 写过一些打油诗
 其中有一个是给Grothendieck写的，其中一段是：
+
 His secretary Dieudonne，who does the writing up and such
+
 Is gratefu for his patronage and thanks him very much
+
 So my mind was filled with wonder when in the news I read
+
 Alex Grothendieck gave up math—and took up politics instead
+
 But I，Iwork on my PhD
+
 And I curse the life I am living
+
 And I curse my poverty
+
 And I wish that I could be
+
 Alex Grothendieck
 
 
 50. 如果世界上设立一个吹牛Noble prize
 Feynman肯定会第一个得奖
-有一次在Pinceton的休息室里，Feynman
-听到一个数学家谈到以e为底的指数函数的
-幂级数展开式，Feynman从小对级数很感兴趣
-于是自言自语的说：“这么看来求e的任何次幂
-是多么简单！”
+有一次在Pinceton的休息室里，Feynman 听到一个数学家谈到以e为底的指数函数的
+幂级数展开式，Feynman从小对级数很感兴趣于是自言自语的说：“这么看来求e的任何次幂是多么简单！”
+
 碰巧这被那个数学家听到了，于是问Feynman
+
 “e的3.3次幂是多少？”
+
 Feynman心里一阵狂喜，因为他恰巧知道几个特殊的常数
+
 “27.11”Feynman马上说，旁边一个人说
+
 “你知道他是Feynman，他在骗人”
+
 结果Feynman算对了，那个数学家又问Feynman
+
 “e的3次幂是多少？”
+
 “这是很难的，一天只做一次”
+
 数学家猜到Feynman可能不会算了，于是很高兴的说
+
 ”哈哈，原来是个冒牌的！”
+
 “好吧，20.085”又算对了
+
 “e的1.4次幂是多少？”数学家又问
+
 “这很难，不过只是对于你，4.05”
+
 Feynman知道绝对不能再算下去了，否则就要露馅
 于是马上站起来走了
 
@@ -787,15 +1024,17 @@ Feynman知道绝对不能再算下去了，否则就要露馅
 的入学考试试题：
 
 1）write the law of cosines
+
 2）is the function x-|x|^3differentiable at the origin？
+
 3）draw the graph of y=2|x|^(-1)
 
 
-1)which of the following two number is larger,(413)^(1/3)
-or 6+3^(1/3)
+1)which of the following two number is larger,(413)^(1/3) or 6+3^(1/3)
+
 2)find the integer solutins to the equations x^y=y^x
-3)prove that a convex polygon of surface area equal to 1
-contains a triangle of surface area equal to 1/4
+
+3)prove that a convex polygon of surface area equal to 1 contains a triangle of surface area equal to 1/4
 
 
 52. weil由于害怕打仗在1939年从法国去了芬兰
@@ -813,6 +1052,7 @@ Rolf Herman（1895-1980）营救了出来
 不过我不相信，因为要是那样子你早就被干掉了！”
 
 “His axiomatic reasoning was impeccable”
+
 后来weil得意的说
 
 
@@ -850,14 +1090,18 @@ Engels说过：
 （1879-1961）并称为意大利代数几何学派的三大代表人物
 这个流派的特点是注重直观的思维方式，而不在乎严格的逻辑证明
 Enriques有一句名言：
+
 “we aristocrats need not proofs，proofs are for you
 commoners”
 
 weil讲过一个故事，有一次Enriques和一个学生一边散步一边
 讨论数学问题，Enriques那种不严谨的风格让那个学生很不适应，
 最后学生停下来说
+
 “教授， I don’t see that”
+
 这位意大利强人回答说
+
 “what do you mean，you don’t see it？I see it just as clearly
 as I see that little dog over there！”
 
@@ -871,12 +1115,10 @@ this is trivial
 your talk was very interesting
 ---I can’t think of anything to say about your talk
 
-I thought about that question twenty years ago，but
-I forget answer
+I thought about that question twenty years ago，but I forget answer
 ---I am more famous than you are
 
-that is the most insightful question I ever heard let
-me think about it
+that is the most insightful question I ever heard let me think about it
 ---you are more famous than I am
 
 Let’s write a joint paper on that
@@ -934,60 +1176,115 @@ Kronecker一起步行回家，经常会看到这样的情形：“一个矮子�
 
 59. 下面是Schwarz，Hermann Amandus（1843-1921）1860-1866年在柏林大学
 所听过的课，其中WS=winter semester, SS= sommer semester
+
 WS1860/61:
+
 Experimental Physics (Dove)
+
 Meteorology (Dove)
+
 Principles of Chemical Analysis (Schneider)
+
 Rhetoric (Maercker)
+
 SS 1861:
+
 Experimental Physics (Dove)
+
 Optical Instruments (Dove)
+
 Numerical Equations (Encke)
+
 Rhetoric (Maercker)
+
 Life and Customs of the Ancient Egyptians (Lepsius)
+
 WS 1861/62
+
 Rhetoric and Poetics (Maercker)
+
 Lucretius on the Nature of things (Maercker)
+
 Meteorology (Dove)
+
 Results of Recent Nature Research
+
 (Du Bois-Reymond)
+
 Microscopical Observations (Foerster)
+
 SS 1862:
+
 Analytical Geometry (Kummer)
+
 Probability Theory (Kummer)
+
 Colour theory (Dove)
+
 Method of Least Squares (Encke)
+
 WS1862/63:
+
 Number Theory (Kummer)
+
 Elliptic Functions (Weierstrass)
+
 Algebraic Equations in Analysis (Kronecker)
+
 SS1863:
+
 Logic (Trendelenburg)
+
 Complex and Ideal Numbers (Kummer)
+
 Curved Surfaces and Curves of Double Curvature (Kummer)
+
 Applications of Elliptic Functions (Weierstrass)
+
 Abelian Functions (Weierstrass)
+
 WS 1863/64:
+
 Psychology (Trendelenburg)
+
 History of Philosophy (Trendelenburg)
+
 Analytical Mechanics (Kummer)
+
 Theory of Hypergeometric Series (Kummer)
+
 Theory of Analytic Functions (Weierstrass)
+
 Differential and Integral Calculus (Ohm)
+
 SS 1864:
+
 Synthetic Geometry (Weierstrass)
+
 Theory of Many-valued Functions (Weierstrass)
+
 WS 1864/65:
+
 Elliptic Functions (Weierstrass)
+
 SS 1865:
+
 Calculus of Variations (Weierstrass)
+
 Applications of Elliptic Functions (Weierstrass)
+
 WS 1865/66:
+
 Psychology (Trendelenburg)
+
 History of Philosophy (Trendelenburg)
+
 Theory of Analytic Functions (Weierstrass)
+
 Surfaces of the Fourth Degree (Kummer)
+
 Algebraic Equations (Kronecker)
+
 Definite Integrals (Fuchs)
 
 
@@ -1031,19 +1328,28 @@ Ulam的波兰同胞Neyman，Jerzy（1894-1981）
 系主任Evans，Griffith（1887-1973）是当时美国为数
 不多的研究偏微分方程的人
 和Neyman一起办理新生上课注册的工作，Evans坐在桌子后面
-前面是一大堆学生，他叫了6个学生，一个一个点名，然后
-对一个姑娘说：
+前面是一大堆学生，他叫了6个学生，一个一个点名，然后对一个姑娘说：
+
 “请到黑板这儿来”
+
 她走上来
+
 “请写二分之一加三分之一”
+
 她盯了Evans一眼，然后写上了
+
 “现在写上等号，那么你看看得数是多少？”
+
 姑娘又气呼呼盯了Evans一眼
+
 写上一加一，二加三，五分之二！
+
 她心里可能会想怎么会问这么简单的问题...
 
 “好吧”
+
 Evans摇摇头
+
 “你到左边去，你应该编在那一组，下一个！”
 
 
@@ -1063,8 +1369,7 @@ Von Neumann出于礼貌随便问问，于是他给Von Neumann
 
 
 64. Mazur,Barry(1937-)早年是学拓扑的，后来研究数论，对Fermat’s last theorem
-有很重要的贡献，Mazur除了PhD外没有获得其它学位，他中学上了3年就直接去MIT读书
-，
+有很重要的贡献，Mazur除了PhD外没有获得其它学位，他中学上了3年就直接去MIT读书，
 后来上完二年级又去了Princeton读研究生，不到一年又去了英国，最后在Princeton
 的Fox，Ralph（1913-1973）指导下取得PhD，题目是：
 “on the embeddings of spheres”
@@ -1273,45 +1578,73 @@ Fields奖授于40岁以下在数学上有突出贡献的人，已有48人获奖
 一小时报告，乞今做过四次一小时报告的是Volterra，Vito（1860-1940，
 1900，1908，1920，1928）
 三次一小时报告的有：
+
 poincare，Henri（1854-1912，1897，1900，1908）
+
 Cartan，Elie（1869-1951，1924，1932，1936）
+
 Gelfand，I M（1913-，1954，1962，1970）
+
 Ahlfors，Lars（1907-1996，1936，1962，1978）
+
 weil，Andre（1906-1998，1950，1954，1978）
 
 一般Fields奖得主都做过一小时报告，然而有12位没有做过
+
 Douglas，Jesse（1897-1965，1936）
+
 Kodaira，Kunihiko（1915-1998，1954）
+
 Cohen，Paul Joseph（1934-，1966）
+
 Hironaka，Heisuke（1931-，1970）
+
 Freedman，Michael（1951-，1986）
+
 Drinfeld，Vladimir（1954-，1990）
+
 Borcherds，Richard（1959-，1998）
+
 Gowers，W Timothy（1963-，1998）
+
 McMullen，Curtis（1958-，1998）
+
 Werner，Wendelin （1968-，2006）
+
 Okounkov，Andrei（1969-，2006）
+
 Perelman，Grigori（1966-，2006）
 
 中国人在大会上做过一小时报告的人有：
+
 陈省身（1911-2004，1950，1970）
+
 萧荫堂（1943-，1983，2002）
+
 丘成桐（1949-，1978）
+
 项武忠（1935-，1983）
+
 田刚（1958-，2002）
+
 张圣蓉（1948-，2002）
 
 
 77. Most mathematicians prove what they can
 Von Neumann prove what he wants
 
-如果你告诉Von Neumann你最新发现的成果，得到的
-答复一般有三种：
+如果你告诉Von Neumann你最新发现的成果，得到的答复一般有三种：
+
 “ya-ya-ya，that is obvious”
+
 “but that is not true”
+
 如果是Von Neumann真的不知道的东西，
+
 “but that is not true”
+
 经过几分钟思考后
+
 “ya-ya-ya，that is obvious”
 
 
@@ -1540,32 +1873,22 @@ Tucker的两个儿子也都是数学家，Tucker早年喜欢下棋，不过他�
 昭示出人类正如它一样永无休止地前进着
 
 这就是德国数学家Mobius（1790-1868）发现的Mobius带，它最独特的性质是单侧性，
-也
-就是一只小甲虫可以走遍一个封闭纸带的两面而不穿越纸带,Mobius是1850年在一篇申
-请
-巴黎科学奖的关于多面体的几何的文章中提出Mobius带的，有意思的是另一位德国数学
-家
-Listing，Johann Benedict（1808-1882）也曾经比Mobius早几个月独立的发现了
-Mobius带，
-这个发现不但是近代拓扑学的起点之一，而且还被应用到很多实用专利上去，比如不间
-断留声
-机（1920年）传送带（1949年）热传输材料（1952年）
+也就是一只小甲虫可以走遍一个封闭纸带的两面而不穿越纸带,Mobius是1850年在一篇申
+请巴黎科学奖的关于多面体的几何的文章中提出Mobius带的，有意思的是另一位德国数学
+家Listing，Johann Benedict（1808-1882）也曾经比Mobius早几个月独立的发现了
+Mobius带，这个发现不但是近代拓扑学的起点之一，而且还被应用到很多实用专利上去，比如不间
+断留声机（1920年）传送带（1949年）热传输材料（1952年）
 
 Mobius带现在也成了奇妙事物的代名词出现在文学作品和日常用语中，如Upson，
-William
-的小说A.Botts and Mobius strip,和Deutsch,A.J的小说A subway named Mobius，
+William的小说A.Botts and Mobius strip,和Deutsch,A.J的小说A subway named Mobius，
 1967年，巴西发行了一枚印有Mobius带的邮票
 
 
 1868年在Leipzig大学为他庆祝执教50周年几个月后，Mobius去世，后来Mobius的一个
-孙子
-Mobius，Paul Julius（1853-1907）是一个神经病学家，对颅相学很感兴趣，他听说人
-的
-左前额的凹陷是数学才能的一个标志，于是研究了很多数学家的头颅，特别是有一次借
-Leipzig
-公墓搬迁，把他爷爷的头骨挖了出来来验证，可以看出Mobius的左前额的确有个凹陷，
-不过
-这个理论现在并没有像Mobius带一样得到公认
+孙子Mobius，Paul Julius（1853-1907）是一个神经病学家，对颅相学很感兴趣，他听说人
+的左前额的凹陷是数学才能的一个标志，于是研究了很多数学家的头颅，特别是有一次借
+Leipzig公墓搬迁，把他爷爷的头骨挖了出来来验证，可以看出Mobius的左前额的确有个凹陷，
+不过这个理论现在并没有像Mobius带一样得到公认
 
 
 90. only two things are infinite,the universe and
@@ -1654,32 +1977,59 @@ Dirac，Charles（1866-1936）出生于瑞士，后来在英国一所中学里
 等一个钟头，然后他会带着一骡书，论文和手稿突然闯进来，Dirac博士可不是这样，
 他最重要的工作似乎就是看着窗外，如果这是典型的英国人的生活方式，那我下一次
 度假一定要去英国！.....
+
 我们坐下来采访开始
+
 “教授，我注意到你的姓之前有几个字母，它们有什么含义吗？”
+
 “No”
+
 “你是说我可以随意拼写它们吗？”
+
 “yes”
+
 “我可以把P A M 拼成poincare Aloysius Mussolini吗？”
+
 “yes”
+
 ....
+
 “你能通俗的介绍一下你所从事的研究吗？”
+
 “No”
+
 ...
+
 “你最喜欢美国的什么东西？”
+
 “potatoes”
+
 “你最喜欢什么运动？”
+
 “Chinese chess”
+
 ....
+
 “你看过电影吗？”
+
 “Yes”
+
 “什么时侯看过？”
+
 “in 1920 perhaps also 1930”
+
 ...
+
 “听说你是唯一一位能理解Einstein思想的人，请问有没有人你不懂他的工作？”
+
 “yes”
+
 “请问你能告诉我他是谁吗？”
+
 “weyl”
+
 ...
+
 “这时候Dirac博士看了一下他的手表，我赶紧起身告辞，当我们分手时，我发现他
 脸上带着浅浅的微笑，看来刚才谈话时他又解决了一个物理难题，不过如果那个weyl
 教授来这里演讲的话，我一定要去领教一下，这将是与一位真正的智者的对话！”
@@ -1693,8 +2043,11 @@ Dirac，Charles（1866-1936）出生于瑞士，后来在英国一所中学里
 他开瓶酒治疗
 
 有一次一个来访的数学家去找医生，
+
 “what is your problem？”
+
 回答是：
+
 “I have a sheaf of ring and an abelian
 functor，then....”
 
@@ -1812,6 +2165,7 @@ Lermontov是否真正梦到过数学家现在已经不得而知了，不过看�
 的语言，这对我来说就像学中文！但是Noether对我很热情而且我也很想
 学这些东西，所以尽管听不懂我也去听
 ....
+
 Noether很高兴与我谈代数，她一定在想：“这是一位像我父亲一样的
 代数几何学家，但是他已经转向纯代数了”Noether还听了我在费城的演讲，
 她像母亲一样对待我，尽管我主要是通过她的论文学习理想论的”
@@ -1915,10 +2269,15 @@ $100玩四个，$1000玩五个，Graham还对英国物理学家Penrose，Roger�
 112. Schwartz,Laurent法国的第一位Fields得主
 有一次打电话给邮局发电报，接电话的是一位女孩
 当她知道对方是一位叫Schwartz的数学家时激动地说
+
 “oh，Laurent Schwartz，mathematician，that’s marvelous！”
+
 Schwartz不明白这是为什么
+
 “Guess my name”
+
 “Maybe Schwartz？how should i know？”
+
 “No，but it’s still a name close to yours”
 原来这个女孩叫Cauchy，虽然她和法国大数学家Cauchy没有什么关系
 但是在大学里学过一个叫Cauchy-Schwarz（差一个t）定理，于是她
@@ -1938,23 +2297,35 @@ Lefschetz回答说：代数主要是crank，而在拓扑中才有真正的idea
 
 114. 英国泰晤士报在圣诞前夕有一个“test of general knowledge for all”
 的娱乐栏目，下面是几个题：
-1 what favourite children’s books were written by an Oxford
-mathematical lecturer？
+
+1 what favourite children’s books were written by an Oxford mathematical lecturer？
+
 2 what international footballer has won a nobel prize？
+
 3 who wrote“God said‘let newton be’and there was light”？
+
 4 whose dogs were named“Diamond”？
+
 5 complete the following series
+
 15.2,17.3,19._,20.1,18.4,13._
 
 
 115. 在美国Washington D C的一条商业街里，200名游客接受
 了一项调查，他们被要求辩认几个著名人物的画像，结果是
+
 Einstein，Albert（1879-1955） 178人认出
+
 Crowe，Russell（1964-） 106人认出
+
 （演员，在《美丽心灵》中饰Nash）
+
 Hawking，Stephen（1942-） 82人认出
+
 Neutron，Jimmy 78人认出
+
 （好像是一部叫《Jimmy Neutron：boy genius》的主角）
+
 Bohr，Niels（1885 - 1962） 3人认出
 
 其中有29人只认识Einstein
@@ -2018,23 +2389,33 @@ Leibniz，说他怎么也想不出来newton是怎么认出他来
 不过有时侯他也会对别人的私人生活特别感兴趣，1946年，
 一个荷兰物理学家Pais，Abraham在IAS访问时与Dirac一起
 吃饭，下面是这两个人的对话
+
 Dirac：Do you always eat three sandwiches for lunch？
+
 Pais：yes
+
 Dirac：Do you always eat the same three sandwiches
+
 for lunch？
+
 Pais：No，it depends on my taste of the day
+
 Dirac：Do you eat your sandwiches in some fixed order？
+
 Pais：No
+
 几个月后，一个叫Salam的年轻人遇见Pais问道：
+
 “Cambridge大学的Dirac教授常提起你，他很关心你现在是否
 每顿还吃三个三明治”
 
 几个月后，Dirac回到IAS，十分高兴得到一个新发现
+
 “Pais的盘子里现在只有两个三明治了！”
 
 
-121. Dirac在1930s访问princeton大学时，把很多时间泡在com-
-mon room里面，princeton的common room以流行各种智力
+121. Dirac在1930s访问princeton大学时，把很多时间
+泡在common room里面，princeton的common room以流行各种智力
 游戏而闻名，Dirac当时喜欢玩一种象棋的残局，比如一方有
 8个卒，另一方有一个车，看谁能把对方吃掉，据说没有人能
 够在这种游戏里战胜Dirac，看来Dirac那时已经在研究博弈
@@ -2077,6 +2458,7 @@ Brouwer，Luitzen（1881-1966）是荷兰数学家，早年研究
 124. Arnold,Vladimir(1937-)俄罗斯数学家，2001年获得wolf奖
 Milnor，John（1931-）美国数学家，1962年获Fields奖，
 1989年获得wolf奖
+
 下面是Arnold在一次演讲后两人的问答
 
 Milnor：你经常告诉我们一些俄罗斯数学家的工作，说实话，
@@ -2199,15 +2581,25 @@ George II打算在此建立一所大学的消息传出后，很多人以
 1735-1800年，Gottingen大学成立不到100年即成为欧洲的
 顶尖学府，下面是1827年德国各大学的统计数字：
 大学 建校时间 教授人数 学生人数
+
 Heidelberg 1368 55 626
+
 Marburg 1527 38 304
+
 Konigsberg 1544 23 303
+
 Jena 1558 51 432
+
 Breslau 1702 49 710
+
 gottingen 1734 89 1545
+
 Erlangen 1743 34 498
+
 Berlin 1810 86 1245
+
 Bonn 1818 42 526
+
 Munich 1825 71 1123
 
 
@@ -2336,14 +2728,23 @@ Krantz曾说他接触过很多科学家，从来没有人比数学家更喜
 天参加一个宴会，Kac的邻座是两位沉默寡言的英国绅士，显
 然三个人没有什么共同语言，宴会快结束时，其中一个人突然
 问Kac，
+
 “you are from the States？”
-“yes”
-“Cornell university？”
 
 “yes”
-“A mathematician？”
+
+“Cornell university？”
+
+
+
 “yes”
+
+“A mathematician？”
+
+“yes”
+
 .......
+
 “On toast！”
 
 
@@ -3035,12 +3436,10 @@ Kleiman说只是在他的论文进展顺利时Zariski才会对他"比较
 
 littlless 从n 早开始孜孜不倦的newsmth 和复旦bbs上面贴 "some tales of
 mathematic!ans"。其内容之精涉猎之广令人叹服，而且经常可以得到网友们的大力支
-持
-，littlless也由此得了很多个m
+持，littlless也由此得了很多个m
 
 为了表达对littlless滔滔不绝的景仰之情Volo 在littleless写出了第168个连载之后
-在
-复旦光华bbs抢先贴出了第169个tale,当然内容是跟littleless 有关的。
+在复旦光华bbs抢先贴出了第169个tale,当然内容是跟littleless 有关的。
 
 网友们不禁想问：那么littleless下次是从第169贴继续连载还是从第170开始呢？
 
@@ -3050,7 +3449,6 @@ mathematic!ans(169+i)" ，再下次恢复正常贴(170)，这样就解决了编�
 受到Wiener 的建议，Volo决定把题目改为"some tales of mathematic!ans(∞)"，
 以保持littless文章编号的连续性
 
-
 170. 1960s法国代数几何学派的工作给这个领域还来了革命性的变
 化，Zariski曾说他原来以为他的理论已经够抽象的了，但是
 现在却成为Grothendieck的概念中具体而特殊的例子了，有
@@ -3058,15 +3456,17 @@ mathematic!ans(169+i)" ，再下次恢复正常贴(170)，这样就解决了编�
 riski叹了一口气回答道"然后你就比我懂得多得多了"
 
 当Hironaka第一次在Zariski的讨论班上用上同调的语言时，
+
 "广中，你在用上同调"Zariski不高兴地说
+
 "是的，Zariski教授"
+
 "好吧!"狮子在咆哮…..
-但是几年后，在1962年秋的代数函数教程中，Zariski用了一
-半篇幅叙述上同调方法
+
+但是几年后，在1962年秋的代数函数教程中，Zariski用了一半篇幅叙述上同调方法
 
 Mumford在当副教授的第一年打算开一门讲授Grothendieck的
-最新理论的课程，他原本以为Zariski会很感兴趣，不过Zar-
-iski一次也没有来听
+最新理论的课程，他原本以为Zariski会很感兴趣，不过Zariski一次也没有来听
 
 当Kleiman的女儿出生时并没有立刻把这个消息告诉Zariski，
 Zariski感觉他受到"极大伤害"，当他的儿子出生时，Kle-
@@ -3094,29 +3494,17 @@ Witten14岁时在《巴尔的摩太阳报》上发表了一篇反对越南战
 "在他的令人感兴趣的2月4日的公开文章"中东无和平"一文中
 Barry Rubin督促美国尽快适应在不久的将来关于以色列-阿拉伯
 地区争端中的不利局面，不幸的是，造成这样后果的恰恰是美国
-自己
-
-我们的政府过分热心向中东地区出售武器，但是对于巴勒斯坦-以
+自己，我们的政府过分热心向中东地区出售武器，但是对于巴勒斯坦-以
 色列的和平进程过分"不热心"，极端分子是我们的政府经常支持
-的
-
-因为我们的国家对以色列有重要影响，在很大程度上美国的态度促
+的，因为我们的国家对以色列有重要影响，在很大程度上美国的态度促
 使现在以色列的极端势力越来越强烈，但是主张和解的声音去越来
-越弱
-
-从来没有哪一届美国政府支持以色列的和平进程，以色列主张和平解
+越弱。从来没有哪一届美国政府支持以色列的和平进程，以色列主张和平解
 决巴以冲突的人常常遭到美国的冷落，但是那些极端主义者却在华盛
-顿（以及美国驻以色列大使馆）受到欢迎
-
-正如最近Uri Avnery在以色列顶级杂志New Outlook上所言，对于巴
-勒斯坦这边美国也扮演了同一角色
-
-比如说，巴勒斯坦分裂组织中的极端分子被允许在那里到处游说，但是
+顿（以及美国驻以色列大使馆）受到欢迎。正如最近Uri Avnery在以色列顶级杂志New Outlook上所言，对于巴
+勒斯坦这边美国也扮演了同一角色。比如说，巴勒斯坦分裂组织中的极端分子被允许在那里到处游说，但是
 对于积极推动巴以和平进程的Arafat的助手Issam Sartawl却通过各种
 手段阻止他在美国的旅行和演说，显然在Sartawl看来，美国的主张不
-能在巴勒斯坦宣传
-
-从目前来看，在1982年巴以和平进程不会取得太大进展，因为美国的态
+能在巴勒斯坦宣传。从目前来看，在1982年巴以和平进程不会取得太大进展，因为美国的态
 度，事情还会这样发展下去"
 
 
@@ -3126,11 +3514,13 @@ Barry Rubin督促美国尽快适应在不久的将来关于以色列-阿拉伯
 我们发现的越多就越感到问题的复杂
 
 这个过程可以分三步：
-1 通过各种计算手段采集同伦群的数据，这一步常常被忽略，
-但是没有实验数据就没有可靠的理论
-2 找出一定的规律，比如周期性，就像Kepler和Halley的工作
-一样
+
+1 通过各种计算手段采集同伦群的数据，这一步常常被忽略，但是没有实验数据就没有可靠的理论
+
+2 找出一定的规律，比如周期性，就像Kepler和Halley的工作一样
+
 3 归纳出可以解释试验现象的理论
+
 -----Ravenel,Douglas
 
 场论方法出于对深刻的数学工具的偏爱，他强调严格的数学方法
@@ -3260,26 +3650,36 @@ chester,Dyson是英国有名的数学神童，据说他在6岁时已经
 其生命气质的人才做得到这一点”
 
 Feynman的回忆则充分表现了他讲故事的本领：
-“房间相当干净，还有个洗手台，看起来挺不错的，我们收拾好
-准备睡觉
+
+“房间相当干净，还有个洗手台，看起来挺不错的，我们收拾好准备睡觉
+
 他说：“我必须上洗手间一下”
+
 “洗手间在走廊那一头”
+
 我们听到走廊上有女孩子嘻笑和走来走去的声音，他有点紧张，
+
 不想出去到走廊上
+
 “没有关系，在洗手台里小便好了”我建议
+
 “可是那样做不卫生”
+
 “噢，没有关系，只要把水打开就行了”
+
 “我不能在洗手台小便”他坚持说
-我们俩都很累了，所以我们就躺下来，天气很热，我们都没有盖
-被子，我的这位朋友睡不着，因为噪音太多了，我不知不觉睡着
-了
+
+我们俩都很累了，所以我们就躺下来，天气很热，我们都没有盖被子，我的这位朋友睡不着，因为噪音太多了，我不知不觉睡着了
+
 过了一会，我听到旁边的地板吱吱作响，就偷偷睁开一只眼睛，
+
 我看到，他在黑暗里悄悄一步一步向洗手台走去”
 
 
 178. 下面是一位美国医生1828年在巴黎日记中的一段
 
 2月22日，星期五
+
 10点半听来自Sorbonne的副教授Cauchy先生（原文原注：
 A.L Cauchy,法国数学家，建立了无穷级数的严格理论，19
 世纪的伟大数学家之一）讲流数，一位脸色苍白，消瘦的绅
@@ -3336,6 +3736,7 @@ des sciences的主编 Elie Cartan要求发表，由于这个杂志
 规定作者必须提交一份个人简历，weil随这篇文章寄去一封信
 
 “亲爱的先生：
+
 随信寄去Bourbaki先生的一篇文章，正如你所知，他原来是
 Poldavia的Besse皇家大学的讲师，几年前我在Clichy的咖啡
 馆里碰见过他,他整日整夜的呆在那里，由于Poldavia这个国家
@@ -3347,6 +3748,7 @@ Poldavia的Besse皇家大学的讲师，几年前我在Clichy的咖啡
 有用的结果”
 
 注：
+
 Poldavia是1929年Alain Mellet在他写的小说L'action Francaise
 里虚构的一个国家，Besse源于1935年夏Bourbaki在Besse-en-Chandesse
 开会，Clichy是巴黎附近无产阶级聚集的郊区，经常有一些外国
@@ -3635,8 +4037,7 @@ before your brain turns to jelly”
 
 像很多科学家一样，Thurston由于专心思考问题会表现出常人
 难以理解的健忘，据说他有时会再走出电梯时不知道该往哪里
-走
-Thurston的父亲是一位空间科学工程师，13岁时，Thurston
+走Thurston的父亲是一位空间科学工程师，13岁时，Thurston
 发现了描述如何把一个长方形分割成小长方形的方程，他当时
 以为这个发现已经可以让他拿到一个数学phD学位了，不过不久
 人们就告诉他这个发现在任何一本百科全书上都可以找到，17
@@ -3762,8 +4163,7 @@ Kline只是简单的提及也不太妥当吧，书中也没有经典的数论
 1915年11月20日，Hilbert向Gottingen科学会提交了一篇
 论文，其中提出了等价与后来Einstein文章中的引力场方程
 而Einstein向普鲁士科学院提交论文的时间是1915年11月25
-日
-有关Einstein和Hilbert之间的优先权讨论有三种意见：
+日有关Einstein和Hilbert之间的优先权讨论有三种意见：
 第一认为Einstein和Hilbert互相独立的提出了引力场方程
 第二认为Einstein受到了Hilbert的启发才写出了正确的引
 力场方程，因为在Einstein1915年11月11日的文章中还没有
@@ -3773,10 +4173,10 @@ Hilbert曾经把自己的文章寄给Einstein
 Hilbert的文章1916年3月31日才发表，而且在1915年12月
 6日，Hilbert修改了一次他的文章，后来的历史研究发现
 Hilbert最后发表的文章和原稿有很大不同：
-1 Hilbert删去了原稿中的“能量定理”和一个有关空间和时
-间的公理
-2 Hilbert原稿中的场方程并不完整，因此他有可能在看到
-Einstein的12月2日的论文后才得出正确的场方程
+
+1 Hilbert删去了原稿中的“能量定理”和一个有关空间和时间的公理
+
+2 Hilbert原稿中的场方程并不完整，因此他有可能在看到Einstein的12月2日的论文后才得出正确的场方程
 
 
 196. 1915年11月，Einstein开始与Hilbert通信讨论数学问题，
@@ -3791,28 +4191,38 @@ Hilbert的报告，Einstein发现Hilbert的报告与他早些时
 下面是Einstein和Hilbert的通信：
 
 1915年11月7日 Berlin 星期日
+
 尊敬的同事：
+
 关于我的重力方程的一篇文章，我在4周前曾经发现其中一个证
 明方法有错误，现在我已经修改了它并随信寄去，我的同事
 sommerfeld告诉我你也发现了这一错误，我很关心你是否也找
 到了新的解答
+
 致以真诚的问候
+
 A Einstein
+
 请问我什么时候可以参加在Gottingen举行的“力学及其历史”
 周？盼复
 
 1915年11月12日 Berlin 星期五
+
 尊敬的同事：
+
 十分感谢你及时的回复，问题现在有了新进展，也就是说，可以
 从假设(-g)^(1/2)=1中得到一般协变形式，Riemann张量可以直
 接导出重力方程，如果我的修改正确的话（方程并没有变），那
 么重力将在物质的组成里扮演重要角色，不过我现在遇上些麻烦，
 我寄给你两份去年的论文，我只有余下的四份原稿，如果别人需
 要这篇文章，他很容易花2马克买到
+
 A Einstein
 
 1915年11月13日 Gottingen
+
 亲爱的同事：
+
 我原本打算在我用公理化方法处理你的问题之前，先讲一下有关物
 理常数之间关系的具体问题，但是由于你对这个问题如此感兴趣，
 所以我决定在后天（11月16日）详细的讨论这个问题，我发现这个
@@ -3822,24 +4232,34 @@ A Einstein
 3点或者5点半来， Gottingen数学会将在6点开始报告，我和我的
 妻子很高兴能与你在一起，如果你星期日来也可以，物理研究所星
 期日有学术报告
+
 祝好
+
 Hilbert
+
 现在我感觉你的论文和我得很不相同
 
 1915年11月15日 Berlin 星期日
+
 尊敬的同事：
+
 你的分析令我很感兴趣，特别是重力和电磁的统一理论让我很高兴，
 你在信中的见解是人们期望已久的，但是为了赶往Gottingen，我
 不能多写了，我只能耐心等待你的论文的最后的发表，我感到很累
 而且胃病又犯了，如果能寄给我一份清样就好了，以致我不用苦等
 太久
+
 祝好，向Mrs Hilbert问好
+
 A Einstein
+
 (未完待续）
 
 
 197. 1915年11月18日 Berlin
+
 亲爱的同事：
+
 你所做的事情就我看来和我几星期前做的一模一样，现在我已经把它投到
 Academy,困难的事情不是找到g的一般协变方程,这用Riemann张量理论很
 容易就可以做到，而是认识到这些方程是Newton定律的推广，我只是在几
@@ -3849,30 +4269,42 @@ Academy,困难的事情不是找到g的一般协变方程,这用Riemann张量理
 与Newton定律的矛盾，重要的是困难已经被克服，我今天向科学院投了一
 篇文章，文中没有用任何假设就以我的广义相对论为工具定量的推导出了
 Le verrier发现的水星近日点的进动，以前没有任何重力理论做到这一点
+
 祝好
+
 Einstein
 
 (注：在这封短信里，Einstein两次提到他向科学院提交论文这件事，而且
 对Hilbert的称呼也由原先的“尊敬的同事”改为“亲爱的同事”）
 
 1915年11月19日 Gottingen
+
 亲爱的同事：
+
 十分感谢你寄给我的明信片，而且祝贺你解决了水星近日点的问题，如果我的
 计算速度像你一样快的话，我的方程中的电子就会被解释清楚，同时，hydrogen
 原子的出现将会说明为什么没有发生辐射
+
 如果你能供继续把你的最新进展告诉我的话我将十分高兴
+
 祝好
+
 Hilbert
 
 1915年12月20日 Berlin 星期日
+
 尊敬的同事：
+
 我很感谢你推荐我成为科学院的通讯成员，在此我感到很有必要对你说几句话
 这对我是十分重要的
+
 我们之间曾经有些不愉快，原因我不想多说了，我经过思想斗争现在已经成功
 地把它忘掉了，我现在没有因为此事对你有任何看法，我希望你也是这样看待我
 如果两个已经从世俗世界解放出来的人不能够互相理解的话那将是一件很悲哀的
 事
+
 祝好
+
 A Einstein
 
 
@@ -3905,13 +4337,21 @@ and justly so”
 最经常用的词是“yes，no，i don't know”，有时候一学期
 才说一句完整的句子
 
+
 有一次Pais在IAS遇见Dirac
+
 Dirac：
+
 “我的妻子想知道你今天晚上能来参加我们的晚宴吗？”
+
 Pais：
+
 “很遗憾，我晚上有事”
+
 Dirac：
+
 “再见”
+
 没有一句像“以后有机会再来”之类的客套话
 
 
@@ -3997,6 +4437,7 @@ Russell住在北京的一家德国医院，每天晚上医生都会认为他
 
 204. Russell的中国之旅给他留下了很深的印象，下面是他自传中
 的回忆：
+
 “我们还得出席一个盛大的宴会，好几位中国人以
 极漂亮的英国的方式在餐后致词，不乏这种场合应
 有的诙谐。这是我们第一次对中国人有亲身的感受，
@@ -4088,10 +4529,15 @@ shafarevich是世界著名的代数学家，它是苏联科学院通讯会
 学术委员的职务，这更让我们为我们这位尊敬的同事以及苏联
 未来的数学担心
 
+
 Michael F Atiyah,Lipman Bers
+
 Marc Kac,Serge Lang
+
 David Mumford,John Tate
+
 Andre weil
+
 New York 1977年1月17日
 
 
@@ -4343,9 +4789,13 @@ Church的讲课引发我们对逻辑永恒的思考"
 出主要定理的证明
 
 Mumford有一次在哈佛大学出的代数几何考题：
+
 1 自己出一道题
+
 2 做出来
+
 哈佛大学哲学系有一次又在后面加了一条
+
 3 自己评分
 
 Boas有一次在西北大学给非数学系的学生开课，期末考试有
@@ -4438,8 +4888,11 @@ Thomson当年牛气到什么程度，发榜那天，Thomson觉得自己
 所从事的所谓"真正的"数学是没有用的数学，与之对应的是
 作者认为与有用成正比的"丑陋"的数学，'任何为自己的专
 业辩护的人其实是为他自己辩护'
+
 .......
+
 ......
+
 "事实上，数学家越是为自己从事的专业感到自豪，他就越是
 不能用通俗的语言解释他所做的工作，这种自豪是以公众为了
 理解数学家的工作而在那些古怪数字和符号中苦苦挣扎并最终
@@ -4464,6 +4917,7 @@ Thomson当年牛气到什么程度，发榜那天，Thomson觉得自己
 他妻子的信件摘录
 
 1958年10月20日
+
 最初的10天日程，紧密地安排了北京大大小小纪念馆的参观，
 （宫殿，公园），还有城外风景胜地的旅游观光（长城，许
 多佛庙圣地），我们还去了3次中国的剧场看戏，我开始授课
@@ -4471,10 +4925,12 @@ Thomson当年牛气到什么程度，发榜那天，Thomson觉得自己
 其他工作
 
 1958年10月30日
+
 我现在正在一家欧洲餐馆用餐，科学院每天给我提供5元生活
 费，足够使用，就是蔬菜短缺
 
 1958年12月2日（自广州）
+
 一路上景色美不胜收，只不过太多的景点和赶路着实令我疲惫
 不堪，我此时坐在珠江江畔欣赏，上百艘帆船和大货轮穿梭于
 江面
@@ -4673,9 +5129,9 @@ Bohr说话是出了名的含糊，Weinberg后来回忆有一次在音乐
 课，
 下面是Wiener后来在自传中的回忆：
 
-“我们常去城里拜访阿达马家。有时玛格丽特和我，或者李和我们俩人常去古玩店搜购
-。我们在那里常常看到一些祖宗画像，都是尊严的中国男子或妇女，姿势摆得一本正经
-，两手放在膝上，穿着令人惊叹的袍子，男人穿的就是文官或者武官的官服。尽管浮夸
+“我们常去城里拜访阿达马家。有时玛格丽特和我，或者李和我们俩人常去古玩店搜购。
+我们在那里常常看到一些祖宗画像，都是尊严的中国男子或妇女，姿势摆得一本正经，
+两手放在膝上，穿着令人惊叹的袍子，男人穿的就是文官或者武官的官服。尽管浮夸
 和呆板，但这些画像上的脸孔却有共同之处：漂亮，幽默和灵敏。
 
 我曾看到一幅这样的祖宗画像，这是那么象阿达马教授；略为稀疏、线状的胡鬓，鹰爪
@@ -5671,19 +6127,28 @@ Leopold Infeld(1898-1968)就是和爱因斯坦写《物理学的进化》
 把椅子，我坐下来等待Dirac开始和我交谈，鸦雀无声，我开始提
 醒我的主人我只会说很有限的英语，友好地一笑但是并没有回答，
 我只得自己打破僵局：
+
 “我已经和Fowler教授交谈过，他告诉我应该和你一起工作，他建
 议我做关于正电子内部反作用的研究”
+
 没有回答
+
 我等了一会儿只能问一个更直接的问题：
 “你对我的研究有什么不同的意见吗?”
+
 No
+
 我好歹听到Dirac口中说出的一个词！
+
 然后我开始讲这个问题，我掏出钢笔想写下一个公式，Dirac站起来给
 我拿了一张纸，但是我的钢笔不出水了，Dirac递给我他的铅笔，我又
 问了他一个直接的问题，我得到了一句5个词的答复，我花了两天去琢
 磨这句话，讨论自此结束，我想把谈话时间延长一点：
+
 “如果我遇到困难来麻烦你帮忙你不介意吧”
+
 No
+
 我离开了房间，十分惊讶和失望，他并没有恶意，而且我认为我与剑桥
 大学的每个人的想法也没有什么不同，如果在英国人看来他有些另类，
 那么对于在Lwow咔啡馆（波兰数学家讨论问题的场所）淘淘不绝的波
