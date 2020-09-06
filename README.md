@@ -4,6 +4,8 @@
 
 ukim的[Heroes In My Heart.pdf](https://github.com/chengchengcode/shulibagua/blob/master/heroes%20in%20my%20heart.pdf) 非常经典，是我看的第一个八卦集子
 
+更长的连载 [Some tales of mathematic!ans](https://github.com/chengchengcode/shulibaguaji/blob/master/some%20tales%20of%20mathematic!ans.md)
+
 [Richard Feynman的传说](https://github.com/chengchengcode/shulibagua/blob/master/Feynman%E7%9A%84%E4%BC%A0%E8%AF%B4.md)
 
 [Julian Schwinger的故事](https://github.com/chengchengcode/shulibagua/blob/master/Julian%20Schwinger%E7%9A%84%E6%95%85%E4%BA%8B.md)
