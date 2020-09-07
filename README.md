@@ -1,5 +1,6 @@
-整理这个合集的主要动机是想再看一下这些有趣的人和事的时候发现连载这些故事的一个bbs已经关了，bbs这个形式也似乎即将消亡，于是备份一些看过的名人轶事，在[这里](https://github.com/chengchengcode/shulibaguaji/blob/master/note.md)有更啰嗦的解释，有空我会继续微调格式，下面是索引
+整理这个合集的主要动机是想再看一下这些有趣的人和事的时候，才发现连载过这些故事一个bbs已经关了，甚至bbs这个形式也似乎即将消亡，于是备份一些看过的名人轶事在这里
 
+[这里](https://github.com/chengchengcode/shulibaguaji/blob/master/note.md)有更啰嗦的解释，有空我会继续微调格式，下面是索引
 
 Heros In My Heart
 ------
