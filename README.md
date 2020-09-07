@@ -1,10 +1,14 @@
 整理这个合集的主要动机是想再看一下这些有趣的人和事的时候发现连载这些故事的一个bbs已经关了，bbs这个形式也似乎即将消亡，于是备份一些看过的名人轶事，在[这里](https://github.com/chengchengcode/shulibaguaji/blob/master/note.md)有更啰嗦的解释，有空我会继续微调格式，下面是索引
 
 
-著名的Heros In My Heart的电子版：
+Heros In My Heart
 ------
 
-ukim的[Heroes In My Heart](https://github.com/chengchengcode/shulibaguaji/blob/master/HerosinMyHeart.md) 非常经典，是我看的第一个这种bbs风格的短故事集，[这里](https://github.com/chengchengcode/shulibagua/blob/master/heroes%20in%20my%20heart.pdf)是pdf版本
+ukim的[Heroes In My Heart](https://github.com/chengchengcode/shulibaguaji/blob/master/HerosinMyHeart.md) 
+
+六十六个故事，非常经典，是我看的第一个这种bbs风格的短故事集
+
+[这里](https://github.com/chengchengcode/shulibagua/blob/master/heroes%20in%20my%20heart.pdf)是pdf版本
 
 四个物理学家的故事
 ------
@@ -37,6 +41,7 @@ fraction@pku 或者 littless 的 [Some tales of mathematic!ans](https://github.c
 
 [阮图南老师经典电动力学课语录 2006-07](https://github.com/chengchengcode/shulibaguaji/blob/master/%E9%98%AE%E5%9B%BE%E5%8D%97%E8%80%81%E5%B8%88%E7%BB%8F%E5%85%B8%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%E8%AF%BE%E8%AF%AD%E5%BD%95%202006-07.md)
 
+[朴云松老师宇宙学课语录](https://mp.weixin.qq.com/s?__biz=MzI1NjQyNzI0OQ==&mid=2247483857&idx=1&sn=fe02675dd99395d56aa3ac34fbc6f447&chksm=ea27944fdd501d59d37a832a3e7b6d2f16be54970aea2c3cb77550442d6f383fd0bba8c75c2c&token=1424209015&lang=zh_CN#rd)
 
 类似的名师语录合集在 https://www.douban.com/group/phy-gossip/ 这里
 
