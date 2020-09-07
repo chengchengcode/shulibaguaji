@@ -39,7 +39,7 @@ fraction@pku 或者 littless 的 [Some tales of mathematic!ans](https://github.c
 
 [中华第一系物理讲义页边集](https://github.com/chengchengcode/shulibagua/blob/master/%E4%B8%AD%E5%8D%8E%E7%AC%AC%E4%B8%80%E7%B3%BB%E7%89%A9%E7%90%86%E8%AE%B2%E4%B9%89%E9%A1%B5%E8%BE%B9%E9%9B%86.md)
 
-[阮图南老师经典电动力学课语录 2006-07](https://github.com/chengchengcode/shulibaguaji/blob/master/%E9%98%AE%E5%9B%BE%E5%8D%97%E8%80%81%E5%B8%88%E7%BB%8F%E5%85%B8%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%E8%AF%BE%E8%AF%AD%E5%BD%95%202006-07.md)
+[阮图南老师经典电动力学课语录 2006-07](https://mp.weixin.qq.com/s?__biz=MzI1NjQyNzI0OQ==&mid=2247486247&idx=1&sn=3772b1c9e6407a4878f02c880e2b2ee7&chksm=ea279eb9dd5017af33dd8b094d4360f3bcc2ecbfadb129cbd4340a238dc74eff35944c1f188d&token=1424209015&lang=zh_CN#rd)
 
 [朴云松老师宇宙学课语录](https://mp.weixin.qq.com/s?__biz=MzI1NjQyNzI0OQ==&mid=2247483857&idx=1&sn=fe02675dd99395d56aa3ac34fbc6f447&chksm=ea27944fdd501d59d37a832a3e7b6d2f16be54970aea2c3cb77550442d6f383fd0bba8c75c2c&token=1424209015&lang=zh_CN#rd)
 
