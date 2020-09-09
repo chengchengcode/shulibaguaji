@@ -42,7 +42,7 @@ fraction@pku 或者 littless 的 [Some tales of mathematic!ans](https://github.c
 
 [阮图南老师经典电动力学课语录 2006-07](https://mp.weixin.qq.com/s?__biz=MzI1NjQyNzI0OQ==&mid=2247486247&idx=1&sn=3772b1c9e6407a4878f02c880e2b2ee7&chksm=ea279eb9dd5017af33dd8b094d4360f3bcc2ecbfadb129cbd4340a238dc74eff35944c1f188d&token=1424209015&lang=zh_CN#rd)
 
-[朴云松老师宇宙学课语录](https://mp.weixin.qq.com/s?__biz=MzI1NjQyNzI0OQ==&mid=2247483857&idx=1&sn=fe02675dd99395d56aa3ac34fbc6f447&chksm=ea27944fdd501d59d37a832a3e7b6d2f16be54970aea2c3cb77550442d6f383fd0bba8c75c2c&token=1424209015&lang=zh_CN#rd)
+[朴云松老师宇宙学课笔记 2009](https://mp.weixin.qq.com/s?__biz=MzI1NjQyNzI0OQ==&mid=2247486255&idx=2&sn=5d7da3c1caa199e7b5147203c1cf4f7a&chksm=ea279eb1dd5017a77902ea2d8b042f1996fad03a5b776b76a9046273809f5819434eb2a6b656&token=1322305687&lang=zh_CN#rd)
 
 类似的名师语录合集在 https://www.douban.com/group/phy-gossip/ 这里
 
